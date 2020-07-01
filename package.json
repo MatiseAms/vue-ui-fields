@@ -1,5 +1,5 @@
 {
-	"name": "vue-ui-fields",
+	"name": "@matise/ui-fields",
 	"version": "4.1.2",
 	"description": "Ui Fields plugin for VueJS",
 	"author": "Dennis Dipsaus",
